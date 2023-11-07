@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448479544436",
+    "project_id": "pushnotification-aaq",
+    "storage_bucket": "pushnotification-aaq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448479544436:android:a4e4378a4c5ca54201bd21",
+        "android_client_info": {
+          "package_name": "br.com.andreyquadros.pushnotification.push_notification_example_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2M45_ogO6wSZsQgaBhBgUJhJ1SRpKgiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
