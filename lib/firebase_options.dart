@@ -47,8 +47,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB_-9swgxsa1GXblsXjYfizQLvyaE0pWSU',
-    appId: '1:448479544436:web:d6cb290fdd01f4e801bd21',
+    apiKey: 'your-apiKey',
+    appId: 'your-apiID',
     messagingSenderId: '448479544436',
     projectId: 'pushnotification-aaq',
     authDomain: 'pushnotification-aaq.firebaseapp.com',
@@ -56,16 +56,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB2M45_ogO6wSZsQgaBhBgUJhJ1SRpKgiM',
-    appId: '1:448479544436:android:a4e4378a4c5ca54201bd21',
+    apiKey: 'your-apiKey',
+    appId: 'your-apiID',
     messagingSenderId: '448479544436',
     projectId: 'pushnotification-aaq',
     storageBucket: 'pushnotification-aaq.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCMqJhBg1P1h19u1XHK4j3f-8wUlEEId7s',
-    appId: '1:448479544436:ios:27863a965fec4db301bd21',
+    apiKey: 'your-apiKey',
+    appId: 'your-apiID',
     messagingSenderId: '448479544436',
     projectId: 'pushnotification-aaq',
     storageBucket: 'pushnotification-aaq.appspot.com',
